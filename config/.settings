@@ -1,0 +1,19 @@
+{
+    "username": "alan@cloudsherpas.com", 
+    "environment": "production", 
+    "project_name": "meetup lead allocation", 
+    "workspace": "/Users/asmalley/Documents/git", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "L8QSSBTCPDFTCZZMSMDS542AFBRWIWPC", 
+    "metadata_container": "1dci0000000NAHwAAO", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
